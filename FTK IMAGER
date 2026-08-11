@@ -1,0 +1,33 @@
+# Exercise 1 – Evidence Acquisition Using FTK Imager
+
+## Objective
+To acquire volatile memory and forensic evidence using AccessData FTK Imager.
+
+## Tool Used
+- FTK Imager
+
+## Description
+FTK Imager is a forensic imaging and evidence acquisition tool.
+It can be used to acquire volatile memory and non-volatile storage
+while maintaining the integrity of forensic evidence.
+
+## Procedure
+1. Open FTK Imager.
+2. Select the Memory Capture option.
+3. Specify the destination location.
+4. Start the memory acquisition process.
+5. Verify that the memory image was successfully created.
+
+## Result
+Volatile memory was successfully acquired using FTK Imager.
+
+## Screenshots
+
+### FTK Imager Interface
+![FTK Imager](screenshots/01-ftk-imager-interface.png)
+
+### Memory Capture
+![Memory Capture](screenshots/02-memory-capture.png)
+
+### Captured Memory Image
+![Memory Image](screenshots/03-memory-image-created.png)
